@@ -1,0 +1,1 @@
+Draggable, Resizable, Snaps to grid and is Confined in bounding container.
